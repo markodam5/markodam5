@@ -1,45 +1,65 @@
-👋 Hi, I’m Marko Damjanac
+# 👋 Hi, I’m Marko Damjanac
 
-Full Stack PHP Developer with 3.5+ years of professional experience and 6+ years of hands-on development experience building web applications and backend systems.
+Full Stack PHP Developer with **3.5+ years of professional experience** and **6+ years of hands-on development experience** building web applications and backend systems.
 
-I specialize in PHP, Laravel, RESTful APIs, and database-driven applications, with solid frontend experience using JavaScript, Angular, and React. I focus on writing clean, maintainable code and building solutions that scale with real-world requirements.
+I specialize in **PHP**, **Laravel**, and **RESTful APIs**, with solid frontend experience using **JavaScript**, **Angular**, and **React**. I focus on writing clean, maintainable code and building scalable solutions.
 
-🛠️ Tech Stack
+---
 
-Backend
+## 🛠️ Tech Stack
 
-PHP, Laravel
+### Backend
+- PHP
+- Laravel
+- RESTful APIs
+- MVC Architecture
+- MySQL
 
-RESTful APIs, MVC architecture
+### Frontend
+- JavaScript
+- Angular
+- React
+- HTML
+- CSS
 
-MySQL
+### Tools & Infrastructure
+- Docker
+- Git
+- Linux
+- WordPress
+- Redis
+- AWS (basic experience)
 
-Frontend
+### Additional Experience
+- C#
+- ASP.NET MVC (console and web applications)
 
-JavaScript
+---
 
-Angular, React
+## 🚀 Featured Project
 
-HTML, CSS
+### PHP REST API with Authentication & Authorization
 
-Tools & Infrastructure
+Production-style RESTful API built in PHP, demonstrating authentication, CRUD operations, and clean MVC architecture.
 
-Docker
+👉 Repository:  
+https://github.com/markodam5/PHP-Full-REST-API-with-Authorisation
 
-Git
+**What it demonstrates:**
+- REST API design
+- Authentication and authorization
+- MVC-based structure
+- Real backend development patterns
 
-Linux
+---
 
-WordPress
+## 💼 Professional Focus
+- Backend-heavy full stack development
+- Building maintainable PHP applications
+- Translating business requirements into technical solutions
+- Adapting tools and frameworks as project requirements evolve
 
-Redis
+---
 
-AWS (basic experience)
-
-Additional Experience
-
-C#, ASP.NET MVC (console and web applications)
-
-
-## 📫 Contact
-📍 Serbia • ✉️ m.damjanac5@gmail.com
+## 📫 Get in Touch
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/marko-damjanac-b15177206/)
