@@ -8,31 +8,17 @@ I specialize in **PHP**, **Laravel**, and **RESTful APIs**, with solid frontend 
 
 ## 🛠️ Tech Stack
 
-### Backend
-- PHP
-- Laravel
-- RESTful APIs
-- MVC Architecture
-- MySQL
+| Backend | Frontend | Tools & Infrastructure |
+|--------|----------|------------------------|
+| PHP | JavaScript | Docker |
+| Laravel | Angular | Git |
+| RESTful APIs | React | Linux |
+| MVC Architecture | HTML | WordPress |
+| MySQL | CSS | Redis |
+|  |  | AWS (basic) |
 
-### Frontend
-- JavaScript
-- Angular
-- React
-- HTML
-- CSS
-
-### Tools & Infrastructure
-- Docker
-- Git
-- Linux
-- WordPress
-- Redis
-- AWS (basic experience)
-
-### Additional Experience
-- C#
-- ASP.NET MVC (console and web applications)
+**Additional Experience**
+- C#, ASP.NET MVC (console and web applications)
 
 ---
 
@@ -40,7 +26,7 @@ I specialize in **PHP**, **Laravel**, and **RESTful APIs**, with solid frontend 
 
 ### PHP REST API with Authentication & Authorization
 
-Production-style RESTful API built in PHP, demonstrating authentication, CRUD operations, and clean MVC architecture.
+PHP Full REST API with Authorization is an example project demonstrating a complete RESTful API built in native PHP with header-based authorization.
 
 👉 Repository:  
 https://github.com/markodam5/PHP-Full-REST-API-with-Authorisation
