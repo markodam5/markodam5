@@ -1,15 +1,45 @@
-# Hi, I’m Marko 👋
+👋 Hi, I’m Marko Damjanac
 
-## 👨‍💻 About Me
-Full-stack PHP developer specializing in Laravel and REST APIs.
+Full Stack PHP Developer with 3.5+ years of professional experience and 6+ years of hands-on development experience building web applications and backend systems.
 
-## 🛠 Skills
-PHP • Laravel • MySQL • HTML • CSS • JavaScript
+I specialize in PHP, Laravel, RESTful APIs, and database-driven applications, with solid frontend experience using JavaScript, Angular, and React. I focus on writing clean, maintainable code and building solutions that scale with real-world requirements.
 
-## 📌 Projects
-- [Laravel-messages](https://github.com/markodam5/Laravel-messages#) – Laravel CRUD app
-- [PHP-Rest-API](https://github.com/markodam5/PHP-Rest-API) – API with HTTP methods
-...
+🛠️ Tech Stack
+
+Backend
+
+PHP, Laravel
+
+RESTful APIs, MVC architecture
+
+MySQL
+
+Frontend
+
+JavaScript
+
+Angular, React
+
+HTML, CSS
+
+Tools & Infrastructure
+
+Docker
+
+Git
+
+Linux
+
+WordPress
+
+Redis
+
+AWS (basic experience)
+
+Additional Experience
+
+C#, ASP.NET MVC (console and web applications)
+
 
 ## 📫 Contact
 📍 Serbia • ✉️ m.damjanac5@gmail.com
