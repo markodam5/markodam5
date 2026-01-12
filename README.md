@@ -48,4 +48,4 @@ https://github.com/markodam5/PHP-Full-REST-API-with-Authorisation
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/marko-damjanac-b15177206/)
+- <a href="https://www.linkedin.com/in/marko-damjanac-b15177206/" target="_blank" rel="noopener noreferrer">Linkedin profile</a>
