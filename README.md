@@ -1,51 +1,39 @@
-# 👋 Hi, I’m Marko Damjanac
+**Full Stack PHP Developer** with 3.5+ years of professional experience and 6+ years building web applications and backend systems.
 
-Full Stack PHP Developer with **3.5+ years of professional experience** and **6+ years of hands-on development experience** building web applications and backend systems.
-
-I specialize in **PHP**, **Laravel**, and **RESTful APIs**, with solid frontend experience using **JavaScript**, **Angular**, and **React**. I focus on writing clean, maintainable code and building scalable solutions.
+I specialize in **PHP, Laravel, and RESTful APIs**, with frontend skills in **JavaScript, Angular, and React**. I focus on writing **clean, maintainable code** and building **scalable solutions**.
 
 ---
 
-## 🛠️ Tech Stack
+🛠 Tech Stack
 
-| Backend | Frontend | Tools & Infrastructure |
-|--------|----------|------------------------|
-| PHP | JavaScript | Docker |
-| Laravel | Angular | Git |
-| RESTful APIs | React | Linux |
-| MVC Architecture | HTML | WordPress |
-| MySQL | CSS | Redis |
-|  |  | AWS (basic) |
+**Backend:**  
+PHP · Laravel · RESTful APIs · MVC Architecture · C# · ASP.NET MVC
 
-**Additional Experience**
-- C#, ASP.NET MVC (console and web applications)
+**Frontend:**  
+JavaScript · Angular · React · HTML · CSS
+
+**Tools & Infrastructure:**  
+Docker · Git · Linux · MySQL · Redis · AWS
+
+---
+⭐ Featured Project
+
+### **PHP REST API with Authentication & Authorization**
+
+A complete RESTful API built in native PHP showcasing secure authentication and modern backend design.
+
+🔗 https://github.com/markodam5/PHP-Full-REST-API-with-Authorisation
 
 ---
 
-## 🚀 Featured Project
+🎯 Professional Focus
 
-### PHP REST API with Authentication & Authorization
-
-PHP Full REST API with Authorization is an example project demonstrating a complete RESTful API built in native PHP with header-based authorization.
-
-👉 Repository:  
-https://github.com/markodam5/PHP-Full-REST-API-with-Authorisation
-
-**What it demonstrates:**
-- REST API design
-- Authentication and authorization
-- MVC-based structure
-- Real backend development patterns
+- Backend-heavy full stack development  
+- Maintainable and scalable PHP applications  
+- Translating business requirements into technical solutions  
+- Adapting tools and frameworks to project needs
 
 ---
 
-## 💼 Professional Focus
-- Backend-heavy full stack development
-- Building maintainable PHP applications
-- Translating business requirements into technical solutions
-- Adapting tools and frameworks as project requirements evolve
-
----
-
-## 📫 Get in Touch
-- <a href="https://www.linkedin.com/in/marko-damjanac-b15177206/" target="_blank" rel="noopener noreferrer">Linkedin profile</a>
+Connect with Me
+<a href="https://www.linkedin.com/in/marko-damjanac-b15177206/" target="_blank" rel="noopener noreferrer">Linkedin profile</a>
